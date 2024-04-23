@@ -8,6 +8,7 @@ library(dplyr)
 library(patchwork)
 library(ggh4x)
 
+# R version 4.2.2
 
 ######## Differential abundance analysis on different subsets using miloR. For more details on how to use this package please see "https://github.com/MarioniLab/miloR" ########
 
